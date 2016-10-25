@@ -4,4 +4,4 @@
 
 3) What is a branch?
 
-4) Which is the relation between branch and commmit?
+4) What does Fast Forwarding mean?

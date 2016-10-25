@@ -1,5 +1,7 @@
-a) How you can create a local repository?
+1) How you can create a local repository?
 
-b) What is a commit?
+2) What is a commit?
 
-c) What is a branch?
+3) What is a branch?
+
+4) Which is the relation between branch and commmit?

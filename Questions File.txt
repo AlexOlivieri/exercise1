@@ -7,3 +7,5 @@
 4) What does Fast Forwarding mean?
 
 5) Which is the relation between branch and commmit?
+
+6) Write down the procedure to sync a local repository and GitHub
